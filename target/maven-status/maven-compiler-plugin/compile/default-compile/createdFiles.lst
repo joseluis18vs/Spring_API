@@ -1,0 +1,7 @@
+com\api_rest\e_springboot_example_jpa_apirest\config\SwaggerConfig.class
+com\api_rest\e_springboot_example_jpa_apirest\Controller\ExampleController.class
+com\api_rest\e_springboot_example_jpa_apirest\Repository\BookRepository.class
+com\api_rest\e_springboot_example_jpa_apirest\Services\BookPriceCalculator.class
+com\api_rest\e_springboot_example_jpa_apirest\Controller\BookController.class
+com\api_rest\e_springboot_example_jpa_apirest\Entities\Book.class
+com\api_rest\e_springboot_example_jpa_apirest\ESpringBootExampleJpaApiRestApplication.class
